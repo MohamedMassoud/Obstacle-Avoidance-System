@@ -1,0 +1,3 @@
+".\Objects\code.obj" 
+TO ".\Objects\Obstacle Avoidance Sensor" 
+PRINT(".\Listings\Obstacle Avoidance Sensor.m51") RAMSIZE(256) 
