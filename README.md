@@ -1,5 +1,5 @@
 # Obstacle Avoidance System
-- This system is about programming a 8052 microcontroller for Obstacle Avoidance System.
+- This system is about programming a 8052 microcontroller for Obstacle Avoidance System using Keil Software.
 
 **Components**
 
